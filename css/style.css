@@ -1,0 +1,68 @@
+body {
+    font-weight: normal;
+    font-style: normal;
+    font-size: 1em;
+    background-color:#BDE2FE;
+    font-family: helvetica, arial, sans-serif;
+    line-height: 1.4;
+    
+   }
+.header {
+    background-image: url(../image/bio-header-flat.png) ;
+    display: flex;
+    height: 120px;
+    min-width: 80px;
+    align-items: center;
+      
+    /*color: #6987FF; */ 
+    align-items: center;
+    text-shadow: #000 0 0 .1em;
+}
+a.visited{
+  color: red;
+}
+.selection-link{
+  color: teal;
+}
+
+ section  {     
+    font-family: helvetica, arial, sans-serif;
+ }
+ 
+ h3{
+   color: #4598BF;
+ }
+ h4{
+   color: #4598BF;
+ }
+ 
+ article{
+
+    font-family: sans-serif;
+ }
+ 
+
+ .main-heading
+ {
+   text-align: center;
+   color:#69BEFF;
+   
+ }
+
+ .highlight {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: #000;
+  text-align: left;
+  color: #69BEFF;
+  /*max-width: fit-content;*/
+}
+
+ .contact
+ {
+   color: #000;
+   background-color: #51B3E0;
+   height: 120px; 
+   font-size: large;
+   
+
+ }
