@@ -11,7 +11,7 @@ body {
     background-image: url(../image/bio-header-flat.png) ;
     display: flex;
     height: 120px;
-    min-width: 80px;
+    min-width: 800px;
     align-items: center;
       
     /*color: #6987FF; */ 
