@@ -9,14 +9,14 @@ body {
    }
 .header {
     background-image: url(../image/bio-header-flat.png) ;
-    display: flex;
-    height: 120px;
-    min-width: 800px;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: block;
+    height: 130px;
+    max-width: 900px;
+    /*color: #6987FF; 
     align-items: center;
-      
-    /*color: #6987FF; */ 
-    align-items: center;
-    text-shadow: #000 0 0 .1em;
+    text-shadow: #000 0 0 .1em;*/
 }
 a.visited{
   color: red;
@@ -54,7 +54,6 @@ a.visited{
   color: #000;
   text-align: left;
   color: #69BEFF;
-  /*max-width: fit-content;*/
 }
 
  .contact
