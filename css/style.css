@@ -14,9 +14,8 @@ body {
     display: block;
     height: 130px;
     max-width: 900px;
-    /*color: #6987FF; 
-    align-items: center;
-    text-shadow: #000 0 0 .1em;*/
+    /* text-shadow: #000 0 0 .1em; */
+    
 }
 a.visited{
   color: red;
@@ -24,24 +23,9 @@ a.visited{
 .selection-link{
   color: teal;
 }
-
  section  {     
     font-family: helvetica, arial, sans-serif;
  }
- 
- h3{
-   color: #4598BF;
- }
- h4{
-   color: #4598BF;
- }
- 
- article{
-
-    font-family: sans-serif;
- }
- 
-
  .main-heading
  {
    text-align: center;
@@ -62,6 +46,8 @@ a.visited{
    background-color: #51B3E0;
    height: 120px; 
    font-size: large;
-   
-
+ }
+ .border
+ {
+   border-top-style: solid;
  }
